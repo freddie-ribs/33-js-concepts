@@ -16,8 +16,8 @@
 - [x] 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 - [x] 6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
 - [x] 7. **[Expression vs Statement](#7-expression-vs-statement)**
-8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
-9. **[Message Queue and Event Loop](#9-message-queue-and-event-loop)**
+- [x] 8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
+- [x] 9. **[Message Queue and Event Loop](#9-message-queue-and-event-loop)**
 10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
 11. **[JavaScript Engines](#11-javascript-engines)**
 12. **[Bitwise Operators, Type Arrays and Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
