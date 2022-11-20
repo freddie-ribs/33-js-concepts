@@ -18,8 +18,8 @@
 - [x] 7. **[Expression vs Statement](#7-expression-vs-statement)**
 - [x] 8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
 - [x] 9. **[Message Queue and Event Loop](#9-message-queue-and-event-loop)**
-10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
-11. **[JavaScript Engines](#11-javascript-engines)**
+- [x] 10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
+- [x] 11. **[JavaScript Engines](#11-javascript-engines)**
 12. **[Bitwise Operators, Type Arrays and Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
 13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
 14. **[Factories and Classes](#14-factories-and-classes)**
