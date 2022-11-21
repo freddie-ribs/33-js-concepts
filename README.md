@@ -23,7 +23,7 @@
 12. **[Bitwise Operators, Type Arrays and Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
 13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
 14. **[Factories and Classes](#14-factories-and-classes)**
-15. **[this, call, apply and bind](#15-this-call-apply-and-bind)**
+- [x] 15. **[this, call, apply and bind](#15-this-call-apply-and-bind)**
 16. **[new, Constructor, instanceof and Instances](#16-new-constructor-instanceof-and-instances)**
 17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-and-prototype-chain)**
 18. **[Object.create and Object.assign](#18-objectcreate-and-objectassign)**
