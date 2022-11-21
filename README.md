@@ -29,7 +29,7 @@
 - [x] 18. **[Object.create and Object.assign](#18-objectcreate-and-objectassign)**
 - [x] 19. **[map, reduce, filter](#19-map-reduce-filter)**
 20. **[Pure Functions, Side Effects and State Mutation](#20-pure-functions-side-effects-and-state-mutation)**
-21. **[Closures](#21-closures)**
+- [x] 21. **[Closures](#21-closures)**
 22. **[High Order Functions](#22-high-order-functions)**
 23. **[Recursion](#23-recursion)**
 24. **[Collections and Generators](#24-collections-and-generators)**
