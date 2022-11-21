@@ -31,7 +31,7 @@
 20. **[Pure Functions, Side Effects and State Mutation](#20-pure-functions-side-effects-and-state-mutation)**
 - [x] 21. **[Closures](#21-closures)**
 - [x] 22. **[High Order Functions](#22-high-order-functions)**
-23. **[Recursion](#23-recursion)**
+- [x] 23. **[Recursion](#23-recursion)**
 24. **[Collections and Generators](#24-collections-and-generators)**
 25. **[Promises](#25-promises)**
 26. **[async/await](#26-asyncawait)**
